@@ -12,8 +12,8 @@ When I was in school I used to complain about why we study chemistry, and what i
 
 In the **Periodically** web application you will find a huge amount of data about chemical elements for free. You will learn a lot of new and are useful for yourself, no matter if you are a schoolboy, student, engineer, housewife, or a person of any other provisions that do not have a refresher in Chemistry.
 
-The chemistry falls into to a number of the most important sciences and is one of the main school objects.
-Its studying begins with the Periodic Table. An interactive approach to a training material is more effective than a classical one. As in it
+Chemistry falls into a number of the most important sciences and is one of the main school objects.
+Its studying begins with the Periodic Table. An interactive approach to training material is more effective than a classical one. As in it
 technologies which became the family for the modern pupils are used.
 
 ## Periodically Demo
@@ -26,23 +26,23 @@ technologies which became the family for the modern pupils are used.
 form approved by the International Union of Pure and Applied Chemistry (IUPAC) as the core. Besides the Periodic Table of
 chemical elements, you can use the Table of solubility.
 
-The chemistry falls into to a number of the most important sciences and is one of the main school objects.
-Its studying begins with the Periodic Table. An interactive approach to a training material is more effective than a classical one. As in it
+Chemistry falls into a number of the most important sciences and is one of the main school objects.
+Its studying begins with the Periodic Table. An interactive approach to training material is more effective than a classical one. As in it
 technologies which became the family for the modern pupils are used.
 
 ## ✨ Features
 
 - Displays the entire Periodic Table at the startup interface.
 - Thought of the day.
-- When you click on any element provides information that is constantly updated.
+- When you click on any element, it provides information that is constantly updated.
 - For most of the items have an image.
-- For more information, there are direct links to Wikipedia for each item
-- Table solubility
+- For more information, there are direct links to Wikipedia for each item.
+- Table solubility.
 - To find any element you can use the search. The search engine is not choosy to the registry or writing style search.
 - You can sort the items into 10 categories:
   • Alkaline earth metals
   • Other nonmetals
-  Alkali metals
+  • Alkali metals
   • Halogens
   • Transition metals
   • Noble gases
